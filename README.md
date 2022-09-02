@@ -27,8 +27,13 @@
 <h3 align="left"></h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Barosi&show_icons=true&locale=en" alt="Barosi" /></p>
-<h3 align="left"></h3>
-<h3 align="left"></h3>
-<h3 align="left"></h3>
+
+<br></br>
+
+<br></br>
+
+<br></br>
+
+<br></br>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fabiobarosi&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
