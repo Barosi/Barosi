@@ -25,9 +25,9 @@
 <p><a href="https://www.buymeacoffee.com/fabiobarosi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fabiobarosi" /></a></p><br><br>
 <h3 align="left">Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Barosi&show_icons=true&locale=en&layout=compact" alt="barosi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=barosi&show_icons=true&locale=en&layout=compact" alt="barosi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Barosi&show_icons=true&locale=en" alt="barosi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=barosi&show_icons=true&locale=en" alt="barosi" /></p>
 <h3 align="left">Music:</h3>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fabiobarosi&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
