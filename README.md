@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fabio Barosi</h1>
 <h3 align="center">A passionate software engineer from Italy</h3>
 
-<p align="left"> <a href="https://twitter.com/barragan_io" target="blank"><img src="https://img.shields.io/twitter/follow/barragan_io?logo=twitter&style=for-the-badge" alt="barragan_io" /></a> </p>
 
 - 🔭 I’m currently working on [Zapdos](https://github.com/Barosi/Zapdos)
 
@@ -26,6 +25,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/fabiobarosi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fabiobarosi" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=barosi&show_icons=true&locale=en&layout=compact" alt="Barosi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Barosi&show_icons=true&locale=en&layout=compact" alt="Barosi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=barosi&show_icons=true&locale=en" alt="Barosi" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Barosi&show_icons=true&locale=en" alt="Barosi" /></p>
