@@ -26,5 +26,6 @@
 <p><a href="https://www.buymeacoffee.com/fabiobarosi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fabiobarosi" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Barosi&show_icons=true&locale=en&layout=compact" alt="Barosi" /></p>
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=XynoxTheDev&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Barosi&show_icons=true&locale=en" alt="Barosi" /></p>
