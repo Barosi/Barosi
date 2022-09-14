@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fabio</h1>
 <h3 align="center">A passionate software engineer from Italy</h3>
 
-- 🔭 I’m currently working on [Zapdos](https://github.com/Barosi/Zapdos)
+- 🔭 I’m currently working on [Zapdos](https://github.com/Barosi/Zapdos) && [Alakazam](https://github.com/Barosi/Alakazam)
 
 - 🌱 I’m currently learning **Flatter**
 
