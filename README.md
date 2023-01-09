@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **Java, Spring, Swift, Kubernetes**
 
-- 📫 How to reach me **barosi.fabio@gmail.com**
-
 - ⚡ Fun fact **I am still learning**
 
 <h3 align="left">Connect with me:</h3>
