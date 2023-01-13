@@ -23,7 +23,7 @@
 <p><a href="https://www.buymeacoffee.com/barragan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fabiobarosi" /></a></p><br><br>
 <h3 align="left">Stats:</h3>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Barosi&show_icons=true&locale=en&layout=compact" alt="barosi"> ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Barosi&show_icons=true&locale=en&layout=compact)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Barosi&show_icons=true&locale=en&layout=compact" alt="barosi">
 
 <h3 align="left">Music:</h3>
 
